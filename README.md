@@ -145,6 +145,20 @@ cd AI-Food-Waste-Management-Backend/backend
 pip install -r requirements.txt
 
 
+## Setup Virtual Environment
+
+Create virtual environment
+
+python -m venv venv
+
+Activate virtual environment (Windows)
+
+venv\Scripts\activate
+
+Activate virtual environment (Mac/Linux)
+
+source venv/bin/activate
+
 ---
 
 ## 4 Run the FastAPI server
